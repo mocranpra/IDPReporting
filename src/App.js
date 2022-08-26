@@ -20,7 +20,7 @@ function App() {
               panes: {
                 filters: {
                   expanded: false,
-                  visible: true
+                  visible: false
                 }
               },
             }
